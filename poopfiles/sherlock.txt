@@ -1,0 +1,7 @@
+[2p] [9qep] O [2p] [9qe] P
+[2a] [9eq] i [2a] [9qe] s
+[2p] [9qp] O [2p] [9qe]
+[29] [9eu] [29] [9eu] [29] [9eu] [29] [9eu]
+e [e W e] [e W w] [w Q w] [w W e] [e W e] [e W w] [w Q w] q 0 9 [yp] [yp]
+e [e W e] [e W w] [w Q w] [w W e] [e W e] [e W w] [w Q w] q 0 9 [yp] [yp]
+p [p O p] [p O o] [o I o] [o O p] [p O p] [p O o] [o I o] i u y [yp] [yp]
